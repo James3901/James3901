@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @James3901
-- 👀 I’m interested in Software Engineering
+- 👋 Hi, my name is James
+- 👀 I’m interested in Software Engineering/Cybersecurity/AI
 - 🌱 I’m currently learning Python and Azure/Google Cloud Engineering
 - 💞️ I’m looking to collaborate on AI/Security/Cloud 
 - 📫 You can reach me via email @ james.shepard2016@hotmail.com
